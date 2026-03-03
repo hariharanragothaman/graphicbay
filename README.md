@@ -33,7 +33,7 @@
 - A graphical UI rendered using Borland Graphics Interface (BGI)
 - Employee management capabilities
 
-The program was written by **Hariharan** and **Abhishek**.
+The program was written by **Hariharan Ragothaman** and **Abhishek Subramaniam**.
 
 ---
 
@@ -507,8 +507,8 @@ The BGI driver path is hardcoded as `c:\\tc\\bgi` throughout the source. If your
 
 ## Authors
 
-- **Hariharan**
-- **Abhishek**
+- **Hariharan Ragothaman**
+- **Abhishek Subramaniam**
 
 Built under the guidance of **Mrs. Kala**.
 
